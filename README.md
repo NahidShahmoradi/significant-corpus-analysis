@@ -30,8 +30,7 @@ How does the semantic use of *significant* differ between News and Learned writi
 - Pandas
 - Matplotlib
 - Regular expressions
-
-## Files
+  
 ## Files
 
 - `significant result.csv` — Corpus statistics, including word counts and frequency information.
