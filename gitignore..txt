@@ -1,0 +1,12 @@
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Jupyter and editor temporary files
+.ipynb_checkpoints/
+*.bak
+*.tmp
+
+# Original corpus data — do not publish accidentally
+brown.zip
