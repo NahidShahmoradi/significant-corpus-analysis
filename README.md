@@ -32,20 +32,14 @@ How does the semantic use of *significant* differ between News and Learned writi
 - Regular expressions
 
 ## Files
-- `significant_final_review_updated.csv`: Annotated data
-- `significant_genre_comparison.png`: Comparison chart
-- significant result.csv — Corpus statistics, including word counts and frequency information.
-
+significant_final_review_updated.csv`: Annotated data
+significant_genre_comparison.png`: Comparison chart
+significant result.csv — Corpus statistics, including word counts and frequency information.
 significant collocates.csv — Collocational analysis of significant.
-
 significant final table.csv — Summary table of the analysis.
-
 significant_final_review_updated.csv — Annotated data with semantic categories.
-
 significant_genre_comparison.png — Visualization comparing semantic categories across genres.
-
 semantic_category.py — Python script for semantic categorization.
-
 prepare_final_table.py — Python script for preparing the final analysis table.
 
 ## Limitations
