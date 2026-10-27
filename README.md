@@ -24,7 +24,10 @@ How does the semantic use of *significant* differ between News and Learned writi
 - Statistical significance: 6 occurrences (21.4%)
 - News: 4 general-significance cases and 0 statistical-significance cases.
 - Learned: 18 general-significance cases and 6 statistical-significance cases.
+### Linguistic Contribution
+This project explores how the meaning and use of the word significant vary across two genres of the Brown Corpus: News and Learned writing. By combining Python-based corpus analysis with manual semantic annotation, the project investigates whether the word is used primarily to express general importance or to refer to statistical significance in different types of texts.
 
+The analysis illustrates how computational tools can support linguistic research by identifying patterns in word usage across genres. At the same time, manual annotation helps distinguish between meanings that cannot always be reliably identified through automated searches alone. This combination of computational and qualitative analysis provides a practical example of how corpus linguistics and Python can be used together to investigate lexical meaning and genre variation.
 ## Tools
 - Python
 - Pandas
